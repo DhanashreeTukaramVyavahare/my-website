@@ -5,7 +5,7 @@ import Hero from './Components/Hero';
 import About from './Components/about'; // Add this component
 import Projects from './Components/projects';
 import Contact from './Components/contact'; // Add this component
-import Skills from  './Components/skills'
+import Skills from  './Components/Skills'
 const App = () => {
   return (
     <div>

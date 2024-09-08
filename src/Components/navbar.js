@@ -7,9 +7,10 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         <a href="#hero" className="text-2xl font-bold">MyPortfolio</a>
         <div>
-          <a href="#about" className="px-4 hover:underline">About</a>
-          <a href="#projects" className="px-4 hover:underline">Projects</a>
-          <a href="#contact" className="px-4 hover:underline">Contact</a>
+          <a href="#about" className="px-4 hover:underline text-black font-bold">About</a>
+          <a href="#projects" className="px-4 hover:underline font-bold">Projects</a>
+          <a href="#skills" className="px-4 hover:underline font-bold">skills</a>
+          <a href="#contact" className="px-4 hover:underline font-bold">Contact</a>
         </div>
       </div>
     </nav>

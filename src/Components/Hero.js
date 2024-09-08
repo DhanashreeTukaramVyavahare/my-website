@@ -26,8 +26,7 @@ const Hero = () => {
           <h1 className="text-4xl md:text-5xl font-extrabold mb-4 leading-tight">
             Hi, I'm <br />
             <span className="text-blue-900">Dhanashree Vyavahare</span> <br />
-            <span className="text-blue-500">Front End Developer</span> <br />
-            <span className="text-gray-400">Back End Developer</span>
+            <span className="text-blue-500">Fullstack Developer</span> <br />
           </h1>
           <p className="text-lg md:text-xl mb-8 leading-relaxed">
             Creating amazing digital experiences with a blend of front-end and back-end skills.
