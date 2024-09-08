@@ -5,17 +5,17 @@ import Hero from './Components/Hero';
 import About from './Components/about'; // Add this component
 import Projects from './Components/projects';
 import Contact from './Components/contact'; // Add this component
-import Skills from  './Components/Skills'
+import Dhanu from  './Components/Dhanu'
 const App = () => {
   return (
     <div>
       <Navbar />
       <Hero />
-      
+    
         <About /> {/* Ensure this component has relevant content */}
       
         <Projects />
-        <Skills />
+        <Dhanu />
     
       
         <Contact /> {/* Ensure this component has relevant content */}
