@@ -12,16 +12,14 @@ const App = () => {
       <Navbar />
       <Hero />
       
-      <section id="About">
         <About /> {/* Ensure this component has relevant content */}
-      </section>
-      <section id="projects">
+      
         <Projects />
         <Skills />
-      </section>
-      <section id="Contact">
+    
+      
         <Contact /> {/* Ensure this component has relevant content */}
-      </section>
+      
       
     </div>
   );
