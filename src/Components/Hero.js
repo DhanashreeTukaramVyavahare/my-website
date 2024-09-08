@@ -1,6 +1,6 @@
 import React from 'react';
 import profilePhoto from '../assets/photo.jfif'; // Ensure the path is correct
-import backgroundimage from '../assets/photo.jfif';
+import backgroundimage from '../assets/background.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 

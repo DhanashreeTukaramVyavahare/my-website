@@ -1,5 +1,5 @@
-// src/Skills.js
 import React from 'react';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 const Skills = () => {
   return (
@@ -12,7 +12,7 @@ const Skills = () => {
 
       <main className="container mx-auto">
         <section className="mb-8">
-          <h2 className="text-xl font-semibold border-b-2  border-gray-200 pb-2 mb-4">Technical Skills</h2>
+          <h2 className="text-xl font-semibold border-b-2 border-gray-200 pb-2 mb-4">Technical Skills</h2>
           <ul className="list-disc list-inside space-y-2">
             <li className="text-lg flex items-center space-x-2">
               <i className="fab fa-html5 text-orange-600"></i>
